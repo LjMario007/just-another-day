@@ -1,5 +1,5 @@
 # Just Another Day
-Welcome to **just-another-day**, a semi-interactive fictional story about conflict set in a school setting. It's playable at [need link]().
+Welcome to **Just Another Day**, a semi-interactive fictional story about conflict set in a school setting. It's playable at [https://ljmario007.github.io/justanotherday](https://ljmario007.github.io/justanotherday).
 
 
 
