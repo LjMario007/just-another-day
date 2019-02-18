@@ -1,15 +1,7 @@
 # Just Another Day
 Welcome to **Just Another Day**, a semi-interactive fictional story about conflict set in a school setting. It's playable at [https://ljmario007.github.io/justanotherday](https://ljmario007.github.io/justanotherday).
-
-
-
-
 # Source
 This game was made with the [Twine](http://twinery.org) engine, which doesn't work especially well for the purposes of code-sharing. The HTML files to import into Twine are in the /source/ folder.
-
-
-
-
 # License
 Just Another Day, a text-based story.
 
