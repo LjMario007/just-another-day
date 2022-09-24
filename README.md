@@ -10,7 +10,7 @@ This game was made with the [Twine](http://twinery.org) engine, which doesn't wo
 ## License
 Just Another Day, a text-based story.
 
-Copyright (C) 2018 Leif Bergsma
+Copyright (C) 2018
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License version 3 or any later version as published by the Free Software Foundation.
 
